@@ -1,2 +1,3 @@
 Commit 1
 Commit 2
+Edit and Commit 3 from remote repository
